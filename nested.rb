@@ -90,11 +90,9 @@ programmer_hash[:yukihiro_matsumoto => {
                   :languages => ["LISP", "C"]
 }
 
-return programmer_hash
-
 end
 
-
+return programmer_hash
 
 def changing_alan
 	programmer_hash = 
