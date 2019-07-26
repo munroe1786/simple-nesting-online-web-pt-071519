@@ -86,10 +86,6 @@ def adding_matz
         }
      }
 
-
-
-end
-
 programmer_hash{
         :yukihiro_matsumoto => {
             :known_for => "Ruby", 
@@ -98,6 +94,10 @@ programmer_hash{
               }
 
 return programmer_hash
+
+end
+
+
 
 def changing_alan
 	programmer_hash = 
